@@ -15,4 +15,4 @@ Graduando de desenvolvimento de software, aficionado por tecnologia, buscando co
 
 
 ## 🛠️Skills
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,py,git,github,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=photoshop,html,css,js,py,git,vscode)](https://skillicons.dev)
