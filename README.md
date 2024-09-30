@@ -11,7 +11,7 @@ Graduando de desenvolvimento de software, aficionado por tecnologia, buscando co
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=HttpsFelps&theme=soft-green&date_format=j%20M%5B%20Y%5D&background=242424&border=BF0000&stroke=BF0000&ring=BF0000&fire=EBCD40&currStreakNum=EB6D6D&sideNums=EB5454&currStreakLabel=BF0000&sideLabels=BF0000)](https://git.io/streak-stats)
 
-![Top Langs]([https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=HttpsFelps&layout=compact&bg_color=242424&border_color=890909&title_color=bf0000&text_color=FFF](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=HttpsFelps&layout=compact&bg_color=242424&border_color=890909&title_color=bf0000&text_color=FFF))
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=HttpsFelps&layout=compact&bg_color=242424&border_color=890909&title_color=bf0000&text_color=FFF)
 
 
 ## 🛠️Skills
