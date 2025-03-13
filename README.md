@@ -15,4 +15,4 @@ Graduando do curso Desenvolvimento de Software Multiplataforma, aficionado por t
 
 
 ## 🛠️Skills
-[![My Skills](https://skillicons.dev/icons?i=photoshop,html,css,js,py,java,c,php,git,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=photoshop,html,css,js,py,java,c,php,git,vscode,eclipse)](https://skillicons.dev)
