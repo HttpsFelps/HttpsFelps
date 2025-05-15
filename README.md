@@ -7,11 +7,7 @@ Graduando do curso Desenvolvimento de Software Multiplataforma, aficionado por t
 [![Gmail](https://img.shields.io/badge/Gmail-bf0000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:luisf.foresto@gmail.com)
 
 ## 📋Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=HttpsFelps&theme=transparent&bg_color=242424&border_color=890909&show_icons=true&icon_color=bf0000&title_color=bf0000&text_color=FFF)
-
-
-
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=HttpsFelps&layout=compact&bg_color=242424&border_color=890909&title_color=bf0000&text_color=FFF)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=HttpsFelps&theme=transparent&line_height=28&bg_color=242424&border_color=890909&show_icons=true&icon_color=bf0000&title_color=bf0000&text_color=FFF)ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=HttpsFelps&layout=donut&bg_color=242424&border_color=890909&title_color=bf0000&text_color=FFF)
 
 
 ## 🛠️Skills
