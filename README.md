@@ -1,4 +1,6 @@
-# 👨🏻‍💻Hello World! Me chamo Luis Felipe👋🏼
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ccc&size=35&center=true&vCenter=true&width=1000&lines=HELLO+WORLD!+ME+CHAMO+LUIS+FELIPE;BOOLEAN+ESTUDANDO+=+TRUE)](https://git.io/typing-svg)
+---
 ## 📚Sobre mim
 Graduando do curso Desenvolvimento de Software Multiplataforma, aficionado por tecnologia, buscando constantemente entender o "porquê" por trás das inovações. Comprometido em transformar conhecimento em soluções práticas e eficazes. Em constante busca por desafios que impulsionem meu crescimento profissional e pessoal.
 
