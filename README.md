@@ -13,4 +13,4 @@ Graduando do curso Desenvolvimento de Software Multiplataforma, aficionado por t
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HttpsFelps&layout=donut&bg_color=242424&border_color=890909&title_color=bf0000&text_color=FFF)
 
 ## 🛠️Skills
-[![My Skills](https://skillicons.dev/icons?i=photoshop,html,css,js,py,java,c,php,mysql,sqlite,cassandra,git,vscode,eclipse,idea,linux)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=photoshop,html,css,js,py,cs,java,php,mysql,sqlite,cassandra,git,vscode,eclipse,idea,linux)](https://skillicons.dev)
