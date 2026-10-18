@@ -9,4 +9,4 @@ Graduando do curso Desenvolvimento de Software Multiplataforma, aficionado por t
 [![Gmail](https://img.shields.io/badge/Gmail-bf0000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:luisf.foresto@gmail.com)
 
 ## 🛠️Skills
-[![My Skills](https://skillicons.dev/icons?i=photoshop,html,css,js,py,cs,java,php,mysql,sqlite,cassandra,git,vscode,eclipse,idea,linux)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,angular,py,cs,dotnet,mysql,sqlite,mongodb,azure,git,vscode,,rabbitmq,linux)](https://skillicons.dev)
